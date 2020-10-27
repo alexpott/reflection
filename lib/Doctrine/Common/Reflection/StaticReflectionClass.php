@@ -2,7 +2,7 @@
 
 namespace Doctrine\Common\Reflection;
 
-use \Doctrine\Common\Reflection\Compatibility\ReflectionClass as CompatibilityReflectionClass;
+use Doctrine\Common\Reflection\Compatibility\ReflectionClass as CompatibilityReflectionClass;
 use ReflectionClass;
 use ReflectionException;
 
